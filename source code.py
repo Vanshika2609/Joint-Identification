@@ -10,8 +10,8 @@ Original file is located at
 """
 
 import os
-os.environ['KAGGLE_USERNAME']="simransagar08"
-os.environ['KAGGLE_KEY']="1ef425667c8eb27c590a5d4f1b2ff1e2"
+os.environ['KAGGLE_USERNAME']="Enter your kaggle username"
+os.environ['KAGGLE_KEY']="Enter you kaggle key"
 
 !kaggle datasets download -d jithinnambiarj/human-activity-detection-dataset
 
